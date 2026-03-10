@@ -1,5 +1,6 @@
-FaceFusion
-==========
+# FaceFusion
+
+test
 
 > Industry leading face manipulation platform.
 
@@ -7,21 +8,15 @@ FaceFusion
 [![Coverage Status](https://img.shields.io/coveralls/facefusion/facefusion.svg)](https://coveralls.io/r/facefusion/facefusion)
 ![License](https://img.shields.io/badge/license-OpenRAIL--AS-green)
 
-
-Preview
--------
+## Preview
 
 ![Preview](https://raw.githubusercontent.com/facefusion/facefusion/master/.github/preview.png?sanitize=true)
 
-
-Installation
-------------
+## Installation
 
 Be aware, the [installation](https://docs.facefusion.io/installation) needs technical skills and is not recommended for beginners. In case you are not comfortable using a terminal, our [Windows Installer](http://windows-installer.facefusion.io) and [macOS Installer](http://macos-installer.facefusion.io) get you started.
 
-
-Usage
------
+## Usage
 
 Run the command:
 
@@ -54,8 +49,6 @@ commands:
     job-retry-all                                 retry all failed jobs
 ```
 
-
-Documentation
--------------
+## Documentation
 
 Read the [documentation](https://docs.facefusion.io) for a deep dive.
